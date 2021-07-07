@@ -1,7 +1,10 @@
 # csharp-study
 * Repositório para acompanhar e organizar os estudos da linguagem C# com .NET 5
 
-# Full stack .NET 5 + MVC/Razor/Blazor e depois React/Angular
+# Full stack developer (timeline)
+* .NET 5
+* MVC/Razor/Blazor
+* React/Angular
 
 # How to
 * Estudos realizados por documentação oficial de cada tecnologia
